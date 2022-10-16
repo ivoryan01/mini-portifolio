@@ -22,7 +22,7 @@
           color: black;
         }
         body{
-          background: url(../src/imagens/fundo-site.jpg);
+          background: url(../imagens/fundo-site.jpg);
           background-size: cover;
           background-repeat:no-repeat ;
           background-position: center;
